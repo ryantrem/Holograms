@@ -1,0 +1,45 @@
+﻿{
+    "__date":  "7/04/2018 4:49:29 PM",
+    "collections":  {
+                    "astronaut":  {
+                                      "sortPriority":  11,
+                                      "boundingBox":  {
+                                                          "x":  1.222942,
+                                                          "y":  2.063453,
+                                                          "z":  0.808009
+                                                      },
+                                      "hologramVersion":  "5",
+                                      "id":  "astronaut",
+                                      "hologram":  "https://3dfeholograms.blob.core.windows.net/astronaut/astronaut_ar.glb",
+                                      "thumbnail":  "https://3dfeholograms.blob.core.windows.net/astronaut/astronaut.png",
+                                      "collectionId":  "default",
+                                      "name":  "Astronaut",
+                                      "boundingBoxCenter":  {
+                                                                "x":  0.0,
+                                                                "y":  1.0317265,
+                                                                "z":  0.0
+                                                            },
+                                      "videoUrl":  "https://3dfeholograms.blob.core.windows.net/holograms-hcap/10428/Astronaut.mpd"
+                                  },
+                    "ballet":  {
+                                   "sortPriority":  50,
+                                   "boundingBox":  {
+                                                       "x":  1.237914,
+                                                       "y":  1.67346278,
+                                                       "z":  0.989471
+                                                   },
+                                   "hologramVersion":  "5",
+                                   "id":  "ballet",
+                                   "hologram":  "https://3dfeholograms.blob.core.windows.net/ballet/ballet_ar.glb",
+                                   "thumbnail":  "https://3dfeholograms.blob.core.windows.net/ballet/ballet.png",
+                                   "collectionId":  "default",
+                                   "name":  "Ballerina",
+                                   "boundingBoxCenter":  {
+                                                             "x":  0.3094785,
+                                                             "y":  0.83673139,
+                                                             "z":  0.0
+                                                         },
+                                   "videoUrl":  "https://3dfeholograms.blob.core.windows.net/holograms-hcap/10350/Ballet.mpd"
+                               }
+                }
+}
