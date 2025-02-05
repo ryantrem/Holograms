@@ -1,6 +1,52 @@
 ﻿{
     "__date":  "7/04/2018 4:49:29 PM",
     "collections":  {
+                        "cliffhouse":  {
+                                           "name":  {
+                                                        "en-US":  "Cliff House",
+                                                        "de-DE":  "Haus an den Klippen",
+                                                        "fr-FR":  "Maison sur la falaise",
+                                                        "ja-JP":  "クリフ ハウス",
+                                                        "zh-Hans":  "悬崖小屋",
+                                                        "es-ES":  "Casa sobre el acantilado",
+                                                        "es-MX":  "Casa sobre el acantilado",
+                                                        "it-IT":  "Casa sulla scogliera",
+                                                        "ko-KR":  "클리프 하우스",
+                                                        "nl-NL":  "Klifhuis",
+                                                        "ru-RU":  "Дом на обрыве",
+                                                        "zh-CN":  "悬崖小屋",
+                                                        "zh-TW":  "懸崖之屋"
+                                                    },
+                                           "hexColor":  "#FF5a76d1",
+                                           "version":  1,
+                                           "sortPriority":  2,
+                                           "id":  "cliffhouse",
+                                           "icon":  "cliffhouseicon.png"
+                                       },
+                        "default":  {
+                                        "name":  {
+                                                     "en-US":  "Fun",
+                                                     "de-DE":  "Spaß",
+                                                     "fr-FR":  "Amusement",
+                                                     "ja-JP":  "娯楽",
+                                                     "zh-Hans":  "玩笑",
+                                                     "es-ES":  "Divertidos",
+                                                     "es-MX":  "Diversión",
+                                                     "it-IT":  "Divertimento",
+                                                     "ko-KR":  "재미난 것",
+                                                     "nl-NL":  "Plezier",
+                                                     "ru-RU":  "Развлечения",
+                                                     "zh-CN":  "趣图",
+                                                     "zh-TW":  "搞笑"
+                                                 },
+                                        "hexColor":  "#FFB7BDBE",
+                                        "version":  1,
+                                        "sortPriority":  1,
+                                        "id":  "default",
+                                        "icon":  "funicon.png"
+                                    }
+                    },
+    "content":  {
                     "astronaut":  {
                                       "sortPriority":  11,
                                       "boundingBox":  {
