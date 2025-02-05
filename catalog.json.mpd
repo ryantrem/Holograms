@@ -56,8 +56,8 @@
                                                       },
                                       "hologramVersion":  "5",
                                       "id":  "astronaut",
-                                      "hologram":  "https://3dfeholograms.blob.core.windows.net/astronaut/astronaut_ar.glb",
-                                      "thumbnail":  "https://3dfeholograms.blob.core.windows.net/astronaut/astronaut.png",
+                                      "hologram":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/astronaut/astronaut_ar.glb",
+                                      "thumbnail":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/astronaut/astronaut.png",
                                       "collectionId":  "default",
                                       "name":  "Astronaut",
                                       "boundingBoxCenter":  {
@@ -65,7 +65,7 @@
                                                                 "y":  1.0317265,
                                                                 "z":  0.0
                                                             },
-                                      "videoUrl":  "https://3dfeholograms.blob.core.windows.net/holograms-hcap/10428/Astronaut.mpd"
+                                      "videoUrl":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/holograms-hcap/10428/Astronaut.mpd"
                                   },
                     "ballet":  {
                                    "sortPriority":  50,
@@ -76,8 +76,8 @@
                                                    },
                                    "hologramVersion":  "5",
                                    "id":  "ballet",
-                                   "hologram":  "https://3dfeholograms.blob.core.windows.net/ballet/ballet_ar.glb",
-                                   "thumbnail":  "https://3dfeholograms.blob.core.windows.net/ballet/ballet.png",
+                                   "hologram":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/ballet/ballet_ar.glb",
+                                   "thumbnail":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/ballet/ballet.png",
                                    "collectionId":  "default",
                                    "name":  "Ballerina",
                                    "boundingBoxCenter":  {
@@ -85,7 +85,7 @@
                                                              "y":  0.83673139,
                                                              "z":  0.0
                                                          },
-                                   "videoUrl":  "https://3dfeholograms.blob.core.windows.net/holograms-hcap/10350/Ballet.mpd"
+                                   "videoUrl":  "https://raw.githubusercontent.com/ryantrem/Holograms/main/holograms-hcap/10350/Ballet.mpd"
                                }
                 }
 }
